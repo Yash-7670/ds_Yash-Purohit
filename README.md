@@ -8,9 +8,11 @@ It examines how market mood impacts:
 - 📏 Trade sizes and outcomes
 - 🔗 Correlations between trading metrics
 
-Analysis is performed in **two Google Colab notebooks**:
-1. **Notebook 1** – Data loading, cleaning, merging, and basic EDA.
-2. **Notebook 2** – Advanced visualizations and deeper sentiment-based insights.
+## 📂 Google Colab Notebooks
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1449tBFHmwPMo3MnHK4Js1NF4WgwclaPh) **notebook_1.ipynb** – Data loading, cleaning, merging, and basic EDA.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18elxw4cW6G5AZwz4pqgOZFmtiDtVsiuU) **notebook_2.ipynb** – Advanced visualizations and account-level insights.
+
 
 ---
 
